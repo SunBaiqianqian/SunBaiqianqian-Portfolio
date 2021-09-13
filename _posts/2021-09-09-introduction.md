@@ -51,4 +51,8 @@ floor plan
 
 Small-living technologies
 ![1](https://github.com/SunBaiqianqian/SunBaiqianqian-Portfolio/blob/master/assets/pinup-1.jpg?raw=true)
+
+      1, 2, 3, 4. https://www.ainhoagarmendia.com/SPACE-SCHOLARSHIP
+      5. https://elpais.com/elpais/2016/09/26/videos/1474910326_374213.html
+      6, 7, 8. https://www.plataformaarquitectura.cl/cl/915752/hermes-city-plaza-standard-studio?ad_medium=gallery
 ![2](https://github.com/SunBaiqianqian/SunBaiqianqian-Portfolio/blob/master/assets/pinup-2.jpg?raw=true)
