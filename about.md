@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Sun Baiqianqian, Sugar, a third-year architecture student in Wenzhou-Kean University. I have a great passion in architectual design, and hope to study in America after graduation.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+In 2021 Fall Semester, I'm doing a competition: designing a tiny house in Salt Lake City for a couple who like camping and working out. I name this house "Home of My Ego", which comes from the word "home". When making this project, I keep considering the meaning of home, especially of tiny home for low / moderate-income group. Home is a place that provides dwellers with warm and sense of belongings. It is usually hard to store all the things meaningful to them in such a narrow and small space, let alone to avoid looking messy. Therefore, this time, the concept of my project is to design an affordable sustainable tiny "storage house" that could accomodate not only the couple but also the objects and activities they love and enjoy. It is really a home of their egos.
