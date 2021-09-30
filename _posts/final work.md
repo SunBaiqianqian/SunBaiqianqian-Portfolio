@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HOME-Home of My Ego -- 9.29 progress"
+title: "final work"
 categories: studio process
 author:
 - Sun Baiqianqian
