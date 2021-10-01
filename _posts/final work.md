@@ -37,6 +37,12 @@ Big glass walls with frames on two sides.
 
 
 
+ ### Photosphere of outside & inside views
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/photosphere%2520outside.jpg&autoLoad=true"></iframe>
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/photosphere%2520inside.jpg&autoLoad=true"></iframe>
+
+
+
  ### Plan
 ![1](https://raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/plan1-01.png)
 ![2](https://raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/plan2-01.png)
