@@ -43,7 +43,7 @@ Big glass walls with frames on two sides.
 
 
 
- ### Plan
+ ### Plans
 ![1](https://raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/plan1-01.png)
 ![2](https://raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/plan2-01.png)
 
