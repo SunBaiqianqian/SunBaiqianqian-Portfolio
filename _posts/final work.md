@@ -32,18 +32,17 @@ Big glass walls with frames on two sides.
 
 
  ### Animation of outside & inside views
-![4](assets/outside.gif)
-![5](assets/inside.gif)
+![4](https://raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/outside.gif)
+![5](https://raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/inside.gif)
 
- ### Site
 
 
  ### Plan
-![1](assets/plan1-01.png)
-![2](assets/plan2-01.png)
+![1](https://raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/plan1-01.png)
+![2](https://raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/plan2-01.png)
 
  ### Section
-![3](assets/section-01.png)
+![3](https://raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/section-01.png)
 
  ### Process
 ![9.14](https://github.com/SunBaiqianqian/SunBaiqianqian-Portfolio/blob/master/assets/9.14%E6%96%B0plan%20section.jpg?raw=true)
