@@ -108,56 +108,25 @@ Two sides of all the stuffs and furnitures are strictly following the width of 6
 
    ![case](https://github.com/SunBaiqianqian/SunBaiqianqian-Portfolio/blob/master/assets/%E4%B8%8B%E6%B2%89%E5%BC%8F.jpg?raw=true)
    1, 2, 3 section
-
    4 plan
-
    5 low bed with low back provides a high visual effect
-
    6 creating a sinking livingroom by lifting the floor, much storage space is produced
-
    7 a sinking bathtub
 
    ![1](https://raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/tiny-house-kitchen-storage-ideas.jpg)
-   [https://www.organized-home.com/posts/kitchen-of-the-week-an-artful-kitchen-created-from-reclaimed-ikea-parts-extreme-budget-edition/][47441323]
+   https://www.organized-home.com/posts/kitchen-of-the-week-an-artful-kitchen-created-from-reclaimed-ikea-parts-extreme-budget-edition/
    ![2](https://raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/hidden-closet-in-tiny-home.jpg)
    ![3](https://raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/using-walls-as-storage-in-tiny-house.jpg)
    ![1](https://raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/under-floor-storage-space.jpg)
    ![1](https://raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/Bench-Seat-Storage-for-a-tiny-house.jpg)
-   [https://thetinylife.com/tiny-house-storage/][707d160a]
+   https://thetinylife.com/tiny-house-storage/
    ![1](https://raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/pull-out-bathroom-organizers.jpg)
-   [https://thetinylife.com/designing-your-dream-tiny-house-bathroom-advice-from-a-full-time-tiny-houser/][4b247738]
+   https://thetinylife.com/designing-your-dream-tiny-house-bathroom-advice-from-a-full-time-tiny-houser/
    ![2](https://raw.githubusercontent.com/SunBaiqianqian/SunBaiqianqian-Portfolio/master/assets/tiny-house-kichen-knife-storage.jpg)
-   [https://thetinylife.com/tiny-house-kitchen-ideas-and-inspiration/][fdee9c5f]
+   https://thetinylife.com/tiny-house-kitchen-ideas-and-inspiration/
    ![4](https://i.pinimg.com/originals/c2/f1/c5/c2f1c5dd2c0070488785a664c7bd3411.jpg)
    [image from Yoosuf Ahuzam Mujthaba's pinterest board](https://www.pinterest.com/ahuzammujthaba/_saved/)
    ![1](https://sc01.alicdn.com/kf/HTB1ZvV7X3vGK1Jjy0Feq6xYupXaJ/Factory-low-price-gabion-basket-gabion-stone.jpg)
    gabion wall with plants from Alibaba
    ![3](https://www.homegardenvt.com/wp-content/uploads/2020/05/Gabion-Garden-Furniture-2.jpg)
-   [https://www.homegardenvt.com/gabion-garden-furniture-ideas/][19bebb3e]
-
-     [4b247738]: https://thetinylife.com/designing-your-dream-tiny-house-bathroom-advice-from-a-full-time-tiny-houser/ "https://thetinylife.com/designing-your-dream-tiny-house-bathroom-advice-from-a-full-time-tiny-houser/"
-     [fdee9c5f]: https://thetinylife.com/tiny-house-kitchen-ideas-and-inspiration/ "https://thetinylife.com/tiny-house-kitchen-ideas-and-inspiration/"
-     [19bebb3e]: https://www.homegardenvt.com/gabion-garden-furniture-ideas/ "https://www.homegardenvt.com/gabion-garden-furniture-ideas/"
-
-
-
-     [47441323]: https://www.organized-home.com/posts/kitchen-of-the-week-an-artful-kitchen-created-from-reclaimed-ikea-parts-extreme-budget-edition/ "https://www.organized-home.com/posts/kitchen-of-the-week-an-artful-kitchen-created-from-reclaimed-ikea-parts-extreme-budget-edition/"
-     [707d160a]: https://thetinylife.com/tiny-house-storage/ "https://thetinylife.com/tiny-house-storage/"
-     [3b66511a]: https://thetinylife.com/tiny-house-storage/ "https://thetinylife.com/tiny-house-storage/"
-     [9c0eb277]: https://thetinylife.com/tiny-house-storage/ "https://thetinylife.com/tiny-house-storage/"
-
-
-   [https://www.sohu.com/a/214731907_159743][37837ea8]
-
-     [37837ea8]: https://www.sohu.com/a/214731907_159743 "https://www.sohu.com/a/214731907_159743"
-
-     ![1](https://github.com/SunBaiqianqian/SunBaiqianqian-Portfolio/blob/master/assets/johnpawsonhouseinside_01%20(1).jpg?raw=true)
-     reference: [https://marchitecturetalks.wordpress.com/2017/03/17/john-pawson-the-minimum/][c9df5a4a]
-
-       [c9df5a4a]: https://marchitecturetalks.wordpress.com/2017/03/17/john-pawson-the-minimum/ "https://marchitecturetalks.wordpress.com/2017/03/17/john-pawson-the-minimum/"
-
-     ![2](https://github.com/SunBaiqianqian/SunBaiqianqian-Portfolio/blob/master/assets/1018362347-page-2_orig.jpg?raw=true)
-     ![3](https://github.com/SunBaiqianqian/SunBaiqianqian-Portfolio/blob/master/assets/1018362347-page-3_orig.jpg?raw=true)
-     reference: [https://www.thehomecompetition.com/2020-results.html][ad28d42a]
-
-       [ad28d42a]: https://www.thehomecompetition.com/2020-results.html "https://www.thehomecompetition.com/2020-results.html"
+   https://www.homegardenvt.com/gabion-garden-furniture-ideas/
