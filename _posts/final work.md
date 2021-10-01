@@ -84,7 +84,7 @@ Two sides of all the stuffs and furnitures are strictly following the width of 6
 
 
 
- ### Precendents
+ ### Precedents
  ![case study48](https://github.com/SunBaiqianqian/SunBaiqianqian-Portfolio/blob/master/assets/case%20study48.jpg?raw=true)
  Project of multi-functional living room (48㎡)
 
