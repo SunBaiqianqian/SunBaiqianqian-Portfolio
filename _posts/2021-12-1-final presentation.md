@@ -9,5 +9,5 @@ meta:
 
 
 
-![1](assets/12..png)
-![2](assets/12.2.png)
+![1](https://github.com/SunBaiqianqian/SunBaiqianqian-Portfolio/blob/master/assets/12..png?raw=true)
+![2](https://github.com/SunBaiqianqian/SunBaiqianqian-Portfolio/blob/master/assets/12.2.png?raw=true)
